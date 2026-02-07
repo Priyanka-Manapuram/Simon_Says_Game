@@ -23,3 +23,6 @@ Clean UI, smooth interactions, and fun gameplay — perfect for practicing DOM m
 - 📱 Responsive layout
 - 🎯 Highscore
 ---
+
+## 🎥 Gameplay Preview
+![Simon Says Game Demo](./simonSays.mp4)
