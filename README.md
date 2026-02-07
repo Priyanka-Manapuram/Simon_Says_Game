@@ -25,4 +25,4 @@ Clean UI, smooth interactions, and fun gameplay — perfect for practicing DOM m
 ---
 
 ## 🎥 Gameplay Preview
-![Simon Says Game Demo](./simonSays.mp4)
+![Simon Says Game Demo](./simonSays.gif)
